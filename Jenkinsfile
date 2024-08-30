@@ -8,7 +8,7 @@ pipeline {
 
             steps {
 
-                echo 'Building the projectt...'
+                echo 'Building the projectt1..'
 
                 // Example: sh 'mvn clean package'
 
