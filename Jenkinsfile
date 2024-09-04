@@ -16,7 +16,7 @@ pipeline {
 
         }
 
-        stage('Unit and Integration Tests') {
+        stage('Unit and Integrations Tests') {
 
             steps {
 
