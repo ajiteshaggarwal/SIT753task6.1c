@@ -32,7 +32,7 @@ pipeline {
 
             steps {
 
-                echo 'Running code analysis...'
+                echo 'Running  the code analysis...'
 
                 // Example: sh 'sonar-scanner'
 
